@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  line-height: 1.5;
+}
+
+
+:root {
+  --gap-s: 8px;
+  --gap-m: 16px;
+  --gap-l: 24px;
+  --radius-s: 8px;
+  --radius-m: 12px;
+  --text: #141416;
+  --text-soft: #3d3d46;
+  --accent: #e94560;
+  --border: #e2e2ec;
+}
